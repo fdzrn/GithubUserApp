@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="Dark_Candy_Apple_Red">#AA0505</color>
+    <color name="Blood">#6A0C0B</color>
+    <color name="Dark_Goldenrod">#B97D10</color>
+    <color name="Philippine_Yellow">#FBCA03</color>
+    <color name="Maya_blue">#67C7EB</color>
+</resources>
